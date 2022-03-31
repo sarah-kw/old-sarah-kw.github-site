@@ -36,7 +36,9 @@ layout: default
       {%- for gig in site.gigs -%}
       <li>
         <h3>
+          <a class="post-link" href="{{ gig.url | relative_url }}">
             {{ gig.title | escape }}
+          </a>
         </h3>
         {%- if site.show_excerpts -%}
           {{ gig.excerpt }}
