@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+here is some text. 
+here is some more text. 
+I am a designer.

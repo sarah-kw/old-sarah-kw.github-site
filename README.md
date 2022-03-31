@@ -1,4 +1,2 @@
-____
-# sarah williams
+# Personal site of Sarah Williams
 ## coder in progress
-____
